@@ -16,3 +16,4 @@ print '方程的根解：'
 print quadratic(4,4,1)
 
 
+#adawddadadwdadadwdadadawd
